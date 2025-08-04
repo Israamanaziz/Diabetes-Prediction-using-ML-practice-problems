@@ -7,6 +7,7 @@ The aim is to understand how Support Vector Machine (SVM) can be applied to a cl
 
 ## DATASET USED
 **Name**: Pima Indians Diabetes Dataset
+
 **SOURCE**: [Kaggle](https://www.kaggle.com/datasets/uciml/pima-indians-diabetes-database)
 
 ## Learning Outcomes
