@@ -1,5 +1,5 @@
 # Diabetes-Prediction-using-ML-practice-problems
-Practice project from Siddhardhan's ML Tutorial for Diabetes Prediction using SVM. For learning purposes only.
+Practice project - ML Tutorial for Diabetes Prediction using SVM. 
 
 ## INTRODUCTION
 This is a machine learning practice project based on Diabetes prediction.
